@@ -1,5 +1,6 @@
 cls
-python Dumale_Jeruzael_Day9_Act1.py
-python fileHandler.py
-python user.py
+python main.py
+python customer.py
+python cUser.py
+python gui.py
 

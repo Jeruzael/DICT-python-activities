@@ -1,4 +1,4 @@
-class person:
+""" class person:
 	__name = ""
 	__email = ""
 	__addr = ""
@@ -18,5 +18,5 @@ class person:
 		self.__addr = a		
 		return self.__addr
 
-		
+"""	
 		
